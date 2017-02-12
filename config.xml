@@ -4,9 +4,9 @@
 		id        = "com.wordpress2app.webapp"
 		versionCode="2"
 		version   = "2.6.7">
-		<name>Golden Tower</name>
-		<description>golden towe for importing oil & tires</description>
-		<author href="http://sw4ws.online/" email="wp2android.xyz@gmail.com">Webapp@2016</author>
+		<name>Webapp Builder</name>
+		<description>WP2ANDROID PRO: + SEARCH +ADMOB + NO POST LIMIT : ONLY 47 USD-USING THIS COUPON - wp2app47off</description>
+		<author href="http://wordpress2app.com/" email="wp2android.xyz@gmail.com">Webapp Builder</author>
 		<preference name="phonegap-version" value="cli-6.3.0" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
