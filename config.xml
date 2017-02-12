@@ -6,7 +6,7 @@
 		version   = "2.6.7">
 		<name>Golden Tower</name>
 		<description>golden towe for importing oil & tires</description>
-		<author href="http://sw4ws.online/" email="mhmdqds@gmail.com">smart web</author>
+		<author href="http://sw4ws.online/" email="wp2android.xyz@gmail.com">Webapp@2016</author>
 		<preference name="phonegap-version" value="cli-6.3.0" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
